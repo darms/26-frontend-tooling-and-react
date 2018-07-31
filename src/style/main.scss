@@ -1,0 +1,11 @@
+
+$background-color: blue;
+$font-color: black;
+
+html, body {
+  background: $background-color;
+}
+
+h1, pre {
+  color: $font-color;
+}
