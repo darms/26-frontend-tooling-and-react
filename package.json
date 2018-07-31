@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SeatownAC/26-frontend-tooling-and-react/issues"
   },
-  "homepage": "https://github.com/SeatownAC/26-frontend-tooling-and-react#readme"
+  "homepage": "https://github.com/SeatownAC/26-frontend-tooling-and-react#readme",
+  "dependencies": {
+    "cowsay": "^1.3.1"
+  }
 }
